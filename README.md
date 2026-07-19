@@ -290,7 +290,7 @@ class Manohar:
 | 💼 LinkedIn | [linkedin.com/in/manoharbetha](https://linkedin.com/in/manoharbetha) |
 | 📧 Email | [manoharbetha.mb@gmail.com](mailto:manoharbetha.mb@gmail.com) |
 | 🐙 GitHub | [github.com/manoharbetha](https://github.com/manoharbetha) |
-| 🌐 Portfolio | [[manoharbetha.vercel.app](https://manoharportfolio-five.vercel.app/)](https://manoharportfolio-five.vercel.app/)  |
+| 🌐 Portfolio | [(https://manoharportfolio-five.vercel.app/)](https://manoharportfolio-five.vercel.app/)  |
 | 📱 Phone | +91 74161 80839 |
 
 </div>

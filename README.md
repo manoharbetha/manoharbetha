@@ -172,14 +172,51 @@ class Manohar:
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>💰 Fintell — AI Expense Tracker</h3>
-      <p>AI-powered personal finance platform with real-time dashboards, budget management, statement import, and automated expense categorization. Multi-user architecture with <strong>JWT auth</strong> and <strong>MongoDB</strong> data isolation.</p>
+      <h3>💰 Fintell — AI Finance Manager</h3>
+      <p>Completed AI-powered personal finance dashboard tracking income, expenses, and goals with automated categorization, credit card utilization monitoring, and an AI-driven financial health score.</p>
+      <p>Features bank <strong>statement import</strong>, real-time dashboards, goal tracking, and a financial notepad. Built with a <strong>React/TypeScript/Vite</strong> frontend, a <strong>FastAPI</strong> backend, and <strong>MongoDB</strong> for multi-user data isolation with <strong>JWT auth</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
-      <em>Currently in development @ Symbiosis Technologies</em>
+      <a href="https://github.com/manoharbetha/expencetracker">
+        <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <em><br/>Built during the Full Stack Development Internship @ Symbiosis Technologies</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏫 Classroom Occupancy Tracker</h3>
+      <p>Real-time web app to track and manage classroom & lab occupancy across a campus, with a faculty login system and live availability status.</p>
+      <p>Built a <strong>Node.js/Express</strong> backend with <strong>MongoDB Atlas</strong>, deployed on Render, paired with a responsive vanilla JS frontend for instant room/lab status toggling, deployed on GitHub Pages.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+      <a href="https://github.com/manoharbetha/occupancy_tracker">
+        <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 PaperLens — Chat with Your Documents</h3>
+      <p>AI-powered document assistant that lets users upload PDFs/documents and converse with them conversationally, surfacing answers grounded in the source content.</p>
+      <p>Built with <strong>React, TypeScript, Vite & Tailwind (shadcn/ui)</strong> on the frontend, backed by <strong>Supabase</strong> (Postgres + Edge Functions) for document storage, retrieval, and semantic Q&A.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+      <a href="https://github.com/manoharbetha/paperlens">
+        <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
